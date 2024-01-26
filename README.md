@@ -58,14 +58,12 @@ Reference
 
 3) Pavlyuk, D. (2021). Week 5 - Python Data Analytics. Available at: https://github.com/DmitryPavlyuk/python-da/tree/main/week5 [December 2023].
 
-4) [@GrudinAndrey] (2023). [Title of the Video]. Available at: https://www.youtube.com/shorts/ZEUOAcURJvw [December 2023].
+4) Stack Overflow contributors. (2023). Web scraping. Available at: https://stackoverflow.com/questions/tagged/web-scraping [December 2023].
 
-5) Stack Overflow contributors. (2023). Web scraping. Available at: https://stackoverflow.com/questions/tagged/web-scraping [December 2023].
+5) GitHub contributors. (2023). OSMnx. Available at: https://github.com/topics/osmnx [January 2024].
 
-6) GitHub contributors. (2023). OSMnx. Available at: https://github.com/topics/osmnx [January 2024].
+6) GitHub contributors. (2023). Folium Python. Available at: https://github.com/topics/folium-python [January 2024].
 
-7) GitHub contributors. (2023). Folium Python. Available at: https://github.com/topics/folium-python [January 2024].
+7) OpenAI. (2023). ChatGPT at OpenAI. Available at: https://chat.openai.com/ [December 2023].
 
-8) OpenAI. (2023). ChatGPT at OpenAI. Available at: https://chat.openai.com/ [December 2023].
-
-9) Blackbox AI. (2023). Blackbox AI Homepage. Available at: https://www.blackbox.ai/ [December 2023].
+8) Blackbox AI. (2023). Blackbox AI Homepage. Available at: https://www.blackbox.ai/ [December 2023].

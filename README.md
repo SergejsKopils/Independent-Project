@@ -63,7 +63,3 @@ Reference
 5) GitHub contributors. (2023). OSMnx. Available at: https://github.com/topics/osmnx [January 2024].
 
 6) GitHub contributors. (2023). Folium Python. Available at: https://github.com/topics/folium-python [January 2024].
-
-7) OpenAI. (2023). ChatGPT at OpenAI. Available at: https://chat.openai.com/ [December 2023].
-
-8) Blackbox AI. (2023). Blackbox AI Homepage. Available at: https://www.blackbox.ai/ [December 2023].
